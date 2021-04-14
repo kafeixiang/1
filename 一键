@@ -5,684 +5,684 @@ mode: Rule
 log-level: info
 external-controller: 127.0.0.1:9090
 proxies:
-  - name: a1
+  - name: 🇭🇰 香港1
     server: a1.ap.fastqvpn.com
     port: 29980
     type: http
-    username: "377747156062175232"
-    password: 48031c6b-441f-4a20-9293-bc9c4cfb3928
+    username: "434642407942782976"
+    password: 68a7cfab-2e1a-4c17-8f3a-c50eadf28087
     tls: true
     skip-cert-verify: true
-  - name: a2
+  - name: 🇭🇰 香港2
     server: a2.ap.fastqvpn.com
     port: 29980
     type: http
-    username: "377747156062175232"
-    password: 48031c6b-441f-4a20-9293-bc9c4cfb3928
+    username: "434642407942782976"
+    password: 68a7cfab-2e1a-4c17-8f3a-c50eadf28087
     tls: true
     skip-cert-verify: true
-  - name: 高速节点-香港_3
+  - name: 🇭🇰 香港_3
     server: a3.ap.fastqvpn.com
     port: 29980
     type: http
-    username: "377747156062175232"
-    password: 48031c6b-441f-4a20-9293-bc9c4cfb3928
+    username: "434642407942782976"
+    password: 68a7cfab-2e1a-4c17-8f3a-c50eadf28087
     tls: true
     skip-cert-verify: true
-  - name: 高速节点-香港_4
+  - name: 🇭🇰 香港_4
     server: a4.ap.fastqvpn.com
     port: 29980
     type: http
-    username: "377747156062175232"
-    password: 48031c6b-441f-4a20-9293-bc9c4cfb3928
+    username: "434642407942782976"
+    password: 68a7cfab-2e1a-4c17-8f3a-c50eadf28087
     tls: true
     skip-cert-verify: true
-  - name: 高速节点-香港_5
+  - name: 🇭🇰 香港_5
     server: a5.ap.fastqvpn.com
     port: 29980
     type: http
-    username: "377747156062175232"
-    password: 48031c6b-441f-4a20-9293-bc9c4cfb3928
+    username: "434642407942782976"
+    password: 68a7cfab-2e1a-4c17-8f3a-c50eadf28087
     tls: true
     skip-cert-verify: true
-  - name: 高速节点-日本_1
+  - name: 🇯🇵 日本_1
     server: ap1-jp.er3.xyz
     port: 29980
     type: http
-    username: "377747156062175232"
-    password: 48031c6b-441f-4a20-9293-bc9c4cfb3928
+    username: "434642407942782976"
+    password: 68a7cfab-2e1a-4c17-8f3a-c50eadf28087
     tls: true
     skip-cert-verify: true
-  - name: 高速节点-日本_2
+  - name: 🇯🇵 日本_2
     server: ap1-jp.er3.xyz
     port: 29982
     type: http
-    username: "377747156062175232"
-    password: 48031c6b-441f-4a20-9293-bc9c4cfb3928
+    username: "434642407942782976"
+    password: 68a7cfab-2e1a-4c17-8f3a-c50eadf28087
     tls: true
     skip-cert-verify: true
-  - name: 高速节点-日本_3
+  - name: 🇯🇵 日本_3
     server: ap1-jp.er3.xyz
     port: 29983
     type: http
-    username: "377747156062175232"
-    password: 48031c6b-441f-4a20-9293-bc9c4cfb3928
+    username: "434642407942782976"
+    password: 68a7cfab-2e1a-4c17-8f3a-c50eadf28087
     tls: true
     skip-cert-verify: true
-  - name: 高速节点-日本_4
+  - name: 🇯🇵 日本_4
     server: ap1-jp.er3.xyz
     port: 29984
     type: http
-    username: "377747156062175232"
-    password: 48031c6b-441f-4a20-9293-bc9c4cfb3928
+    username: "434642407942782976"
+    password: 68a7cfab-2e1a-4c17-8f3a-c50eadf28087
     tls: true
     skip-cert-verify: true
-  - name: 高速节点-日本_5
+  - name: 🇯🇵 日本_5
     server: ap1-jp.er3.xyz
     port: 29985
     type: http
-    username: "377747156062175232"
-    password: 48031c6b-441f-4a20-9293-bc9c4cfb3928
+    username: "434642407942782976"
+    password: 68a7cfab-2e1a-4c17-8f3a-c50eadf28087
     tls: true
     skip-cert-verify: true
-  - name: 高速节点-日本_6
+  - name: 🇯🇵 日本_6
     server: ap1-jp.er3.xyz
     port: 29986
     type: http
-    username: "377747156062175232"
-    password: 48031c6b-441f-4a20-9293-bc9c4cfb3928
+    username: "434642407942782976"
+    password: 68a7cfab-2e1a-4c17-8f3a-c50eadf28087
     tls: true
     skip-cert-verify: true
-  - name: 高速节点-日本_7
+  - name: 🇯🇵 日本_7
     server: ap1-jp.er3.xyz
     port: 29987
     type: http
-    username: "377747156062175232"
-    password: 48031c6b-441f-4a20-9293-bc9c4cfb3928
+    username: "434642407942782976"
+    password: 68a7cfab-2e1a-4c17-8f3a-c50eadf28087
     tls: true
     skip-cert-verify: true
-  - name: 高速节点-日本_8
+  - name: 🇯🇵 日本_8
     server: ap1-jp.er3.xyz
     port: 29988
     type: http
-    username: "377747156062175232"
-    password: 48031c6b-441f-4a20-9293-bc9c4cfb3928
+    username: "434642407942782976"
+    password: 68a7cfab-2e1a-4c17-8f3a-c50eadf28087
     tls: true
     skip-cert-verify: true
-  - name: 高速节点-新加坡_1
+  - name: 🇸🇬 新加坡_1
     server: ap1-sg.er3.xyz
     port: 29980
     type: http
-    username: "377747156062175232"
-    password: 48031c6b-441f-4a20-9293-bc9c4cfb3928
+    username: "434642407942782976"
+    password: 68a7cfab-2e1a-4c17-8f3a-c50eadf28087
     tls: true
     skip-cert-verify: true
-  - name: 高速节点-新加坡_2
+  - name: 🇸🇬 新加坡_2
     server: ap1-sg.er3.xyz
     port: 29982
     type: http
-    username: "377747156062175232"
-    password: 48031c6b-441f-4a20-9293-bc9c4cfb3928
+    username: "434642407942782976"
+    password: 68a7cfab-2e1a-4c17-8f3a-c50eadf28087
     tls: true
     skip-cert-verify: true
-  - name: 高速节点-新加坡_3
+  - name: 🇸🇬 新加坡_3
     server: ap1-sg.er3.xyz
     port: 29983
     type: http
-    username: "377747156062175232"
-    password: 48031c6b-441f-4a20-9293-bc9c4cfb3928
+    username: "434642407942782976"
+    password: 68a7cfab-2e1a-4c17-8f3a-c50eadf28087
     tls: true
     skip-cert-verify: true
-  - name: 高速节点-新加坡_4
+  - name: 🇸🇬 新加坡_4
     server: ap1-sg.er3.xyz
     port: 29984
     type: http
-    username: "377747156062175232"
-    password: 48031c6b-441f-4a20-9293-bc9c4cfb3928
+    username: "434642407942782976"
+    password: 68a7cfab-2e1a-4c17-8f3a-c50eadf28087
     tls: true
     skip-cert-verify: true
-  - name: 高速节点-新加坡_5
+  - name: 🇸🇬 新加坡_5
     server: ap1-sg.er3.xyz
     port: 29985
     type: http
-    username: "377747156062175232"
-    password: 48031c6b-441f-4a20-9293-bc9c4cfb3928
+    username: "434642407942782976"
+    password: 68a7cfab-2e1a-4c17-8f3a-c50eadf28087
     tls: true
     skip-cert-verify: true
-  - name: 高速节点-新加坡_6
+  - name: 🇸🇬 新加坡_6
     server: ap1-sg.er3.xyz
     port: 29986
     type: http
-    username: "377747156062175232"
-    password: 48031c6b-441f-4a20-9293-bc9c4cfb3928
+    username: "434642407942782976"
+    password: 68a7cfab-2e1a-4c17-8f3a-c50eadf28087
     tls: true
     skip-cert-verify: true
-  - name: 高速节点-新加坡_7
+  - name: 🇸🇬 新加坡_7
     server: ap1-sg.er3.xyz
     port: 29987
     type: http
-    username: "377747156062175232"
-    password: 48031c6b-441f-4a20-9293-bc9c4cfb3928
+    username: "434642407942782976"
+    password: 68a7cfab-2e1a-4c17-8f3a-c50eadf28087
     tls: true
     skip-cert-verify: true
-  - name: 高速节点-新加坡_8
+  - name: 🇸🇬 新加坡_8
     server: ap1-sg.er3.xyz
     port: 29988
     type: http
-    username: "377747156062175232"
-    password: 48031c6b-441f-4a20-9293-bc9c4cfb3928
+    username: "434642407942782976"
+    password: 68a7cfab-2e1a-4c17-8f3a-c50eadf28087
     tls: true
     skip-cert-verify: true
-  - name: 高速节点-美国_1
+  - name: 🇺🇸 美国_1
     server: ap1-us.er3.xyz
     port: 29980
     type: http
-    username: "377747156062175232"
-    password: 48031c6b-441f-4a20-9293-bc9c4cfb3928
+    username: "434642407942782976"
+    password: 68a7cfab-2e1a-4c17-8f3a-c50eadf28087
     tls: true
     skip-cert-verify: true
-  - name: 高速节点-美国_2
+  - name: 🇺🇸 美国_2
     server: ap1-us.er3.xyz
     port: 29982
     type: http
-    username: "377747156062175232"
-    password: 48031c6b-441f-4a20-9293-bc9c4cfb3928
+    username: "434642407942782976"
+    password: 68a7cfab-2e1a-4c17-8f3a-c50eadf28087
     tls: true
     skip-cert-verify: true
-  - name: 高速节点-美国_3
+  - name: 🇺🇸 美国_3
     server: ap1-us.er3.xyz
     port: 29983
     type: http
-    username: "377747156062175232"
-    password: 48031c6b-441f-4a20-9293-bc9c4cfb3928
+    username: "434642407942782976"
+    password: 68a7cfab-2e1a-4c17-8f3a-c50eadf28087
     tls: true
     skip-cert-verify: true
-  - name: 高速节点-美国_4
+  - name: 🇺🇸 美国_4
     server: ap1-us.er3.xyz
     port: 29984
     type: http
-    username: "377747156062175232"
-    password: 48031c6b-441f-4a20-9293-bc9c4cfb3928
+    username: "434642407942782976"
+    password: 68a7cfab-2e1a-4c17-8f3a-c50eadf28087
     tls: true
     skip-cert-verify: true
-  - name: 高速节点-美国_5
+  - name: 🇺🇸 美国_5
     server: ap1-us.er3.xyz
     port: 29985
     type: http
-    username: "377747156062175232"
-    password: 48031c6b-441f-4a20-9293-bc9c4cfb3928
+    username: "434642407942782976"
+    password: 68a7cfab-2e1a-4c17-8f3a-c50eadf28087
     tls: true
     skip-cert-verify: true
-  - name: 高速节点-美国_6
+  - name: 🇺🇸 美国_6
     server: ap1-us.er3.xyz
     port: 29986
     type: http
-    username: "377747156062175232"
-    password: 48031c6b-441f-4a20-9293-bc9c4cfb3928
+    username: "434642407942782976"
+    password: 68a7cfab-2e1a-4c17-8f3a-c50eadf28087
     tls: true
     skip-cert-verify: true
-  - name: 高速节点-美国_7
+  - name: 🇺🇸 美国_7
     server: ap1-us.er3.xyz
     port: 29987
     type: http
-    username: "377747156062175232"
-    password: 48031c6b-441f-4a20-9293-bc9c4cfb3928
+    username: "434642407942782976"
+    password: 68a7cfab-2e1a-4c17-8f3a-c50eadf28087
     tls: true
     skip-cert-verify: true
-  - name: 高速节点-美国_8
+  - name: 🇺🇸 美国_8
     server: ap1-us.er3.xyz
     port: 29988
     type: http
-    username: "377747156062175232"
-    password: 48031c6b-441f-4a20-9293-bc9c4cfb3928
+    username: "434642407942782976"
+    password: 68a7cfab-2e1a-4c17-8f3a-c50eadf28087
     tls: true
     skip-cert-verify: true
-  - name: 高速节点-英国_1
+  - name: 🇬🇧 英国_1
     server: ap1-uk.er3.xyz
     port: 29980
     type: http
-    username: "377747156062175232"
-    password: 48031c6b-441f-4a20-9293-bc9c4cfb3928
+    username: "434642407942782976"
+    password: 68a7cfab-2e1a-4c17-8f3a-c50eadf28087
     tls: true
     skip-cert-verify: true
-  - name: 高速节点-英国_2
+  - name: 🇬🇧 英国_2
     server: ap1-uk.er3.xyz
     port: 29982
     type: http
-    username: "377747156062175232"
-    password: 48031c6b-441f-4a20-9293-bc9c4cfb3928
+    username: "434642407942782976"
+    password: 68a7cfab-2e1a-4c17-8f3a-c50eadf28087
     tls: true
     skip-cert-verify: true
-  - name: 高速节点-英国_3
+  - name: 🇬🇧 英国_3
     server: ap1-uk.er3.xyz
     port: 29983
     type: http
-    username: "377747156062175232"
-    password: 48031c6b-441f-4a20-9293-bc9c4cfb3928
+    username: "434642407942782976"
+    password: 68a7cfab-2e1a-4c17-8f3a-c50eadf28087
     tls: true
     skip-cert-verify: true
-  - name: 高速节点-英国_4
+  - name: 🇬🇧 英国_4
     server: ap1-uk.er3.xyz
     port: 29984
     type: http
-    username: "377747156062175232"
-    password: 48031c6b-441f-4a20-9293-bc9c4cfb3928
+    username: "434642407942782976"
+    password: 68a7cfab-2e1a-4c17-8f3a-c50eadf28087
     tls: true
     skip-cert-verify: true
-  - name: 高速节点-英国_5
+  - name: 🇬🇧 英国_5
     server: ap1-uk.er3.xyz
     port: 29985
     type: http
-    username: "377747156062175232"
-    password: 48031c6b-441f-4a20-9293-bc9c4cfb3928
+    username: "434642407942782976"
+    password: 68a7cfab-2e1a-4c17-8f3a-c50eadf28087
     tls: true
     skip-cert-verify: true
-  - name: 高速节点-英国_6
+  - name: 🇬🇧 英国_6
     server: ap1-uk.er3.xyz
     port: 29986
     type: http
-    username: "377747156062175232"
-    password: 48031c6b-441f-4a20-9293-bc9c4cfb3928
+    username: "434642407942782976"
+    password: 68a7cfab-2e1a-4c17-8f3a-c50eadf28087
     tls: true
     skip-cert-verify: true
-  - name: 高速节点-英国_7
+  - name: 🇬🇧 英国_7
     server: ap1-uk.er3.xyz
     port: 29987
     type: http
-    username: "377747156062175232"
-    password: 48031c6b-441f-4a20-9293-bc9c4cfb3928
+    username: "434642407942782976"
+    password: 68a7cfab-2e1a-4c17-8f3a-c50eadf28087
     tls: true
     skip-cert-verify: true
-  - name: 高速节点-英国_8
+  - name: 🇬🇧 英国_8
     server: ap1-uk.er3.xyz
     port: 29988
     type: http
-    username: "377747156062175232"
-    password: 48031c6b-441f-4a20-9293-bc9c4cfb3928
+    username: "434642407942782976"
+    password: 68a7cfab-2e1a-4c17-8f3a-c50eadf28087
     tls: true
     skip-cert-verify: true
-  - name: 高速节点-加拿大_1
+  - name: 🇨🇦 加拿大_1
     server: ap1-ca.er3.xyz
     port: 29980
     type: http
-    username: "377747156062175232"
-    password: 48031c6b-441f-4a20-9293-bc9c4cfb3928
+    username: "434642407942782976"
+    password: 68a7cfab-2e1a-4c17-8f3a-c50eadf28087
     tls: true
     skip-cert-verify: true
-  - name: 高速节点-加拿大_2
+  - name: 🇨🇦 加拿大_2
     server: ap1-ca.er3.xyz
     port: 29982
     type: http
-    username: "377747156062175232"
-    password: 48031c6b-441f-4a20-9293-bc9c4cfb3928
+    username: "434642407942782976"
+    password: 68a7cfab-2e1a-4c17-8f3a-c50eadf28087
     tls: true
     skip-cert-verify: true
-  - name: 高速节点-加拿大_3
+  - name: 🇨🇦 加拿大_3
     server: ap1-ca.er3.xyz
     port: 29983
     type: http
-    username: "377747156062175232"
-    password: 48031c6b-441f-4a20-9293-bc9c4cfb3928
+    username: "434642407942782976"
+    password: 68a7cfab-2e1a-4c17-8f3a-c50eadf28087
     tls: true
     skip-cert-verify: true
-  - name: 高速节点-加拿大_4
+  - name: 🇨🇦 加拿大_4
     server: ap1-ca.er3.xyz
     port: 29984
     type: http
-    username: "377747156062175232"
-    password: 48031c6b-441f-4a20-9293-bc9c4cfb3928
+    username: "434642407942782976"
+    password: 68a7cfab-2e1a-4c17-8f3a-c50eadf28087
     tls: true
     skip-cert-verify: true
-  - name: 高速节点-加拿大_5
+  - name: 🇨🇦 加拿大_5
     server: ap1-ca.er3.xyz
     port: 29985
     type: http
-    username: "377747156062175232"
-    password: 48031c6b-441f-4a20-9293-bc9c4cfb3928
+    username: "434642407942782976"
+    password: 68a7cfab-2e1a-4c17-8f3a-c50eadf28087
     tls: true
     skip-cert-verify: true
-  - name: 高速节点-加拿大_6
+  - name: 🇨🇦 加拿大_6
     server: ap1-ca.er3.xyz
     port: 29986
     type: http
-    username: "377747156062175232"
-    password: 48031c6b-441f-4a20-9293-bc9c4cfb3928
+    username: "434642407942782976"
+    password: 68a7cfab-2e1a-4c17-8f3a-c50eadf28087
     tls: true
     skip-cert-verify: true
-  - name: 高速节点-加拿大_7
+  - name: 🇨🇦 加拿大_7
     server: ap1-ca.er3.xyz
     port: 29987
     type: http
-    username: "377747156062175232"
-    password: 48031c6b-441f-4a20-9293-bc9c4cfb3928
+    username: "434642407942782976"
+    password: 68a7cfab-2e1a-4c17-8f3a-c50eadf28087
     tls: true
     skip-cert-verify: true
-  - name: 高速节点-加拿大_8
+  - name: 🇨🇦 加拿大_8
     server: ap1-ca.er3.xyz
     port: 29988
     type: http
-    username: "377747156062175232"
-    password: 48031c6b-441f-4a20-9293-bc9c4cfb3928
+    username: "434642407942782976"
+    password: 68a7cfab-2e1a-4c17-8f3a-c50eadf28087
     tls: true
     skip-cert-verify: true
-  - name: 高速节点-澳洲_1
+  - name: 🇦🇺 澳洲_1
     server: ap1-au.er3.xyz
     port: 29980
     type: http
-    username: "377747156062175232"
-    password: 48031c6b-441f-4a20-9293-bc9c4cfb3928
+    username: "434642407942782976"
+    password: 68a7cfab-2e1a-4c17-8f3a-c50eadf28087
     tls: true
     skip-cert-verify: true
-  - name: 高速节点-澳洲_2
+  - name: 🇦🇺 澳洲_2
     server: ap1-au.er3.xyz
     port: 29982
     type: http
-    username: "377747156062175232"
-    password: 48031c6b-441f-4a20-9293-bc9c4cfb3928
+    username: "434642407942782976"
+    password: 68a7cfab-2e1a-4c17-8f3a-c50eadf28087
     tls: true
     skip-cert-verify: true
-  - name: 高速节点-澳洲_3
+  - name: 🇦🇺 澳洲_3
     server: ap1-au.er3.xyz
     port: 29983
     type: http
-    username: "377747156062175232"
-    password: 48031c6b-441f-4a20-9293-bc9c4cfb3928
+    username: "434642407942782976"
+    password: 68a7cfab-2e1a-4c17-8f3a-c50eadf28087
     tls: true
     skip-cert-verify: true
-  - name: 高速节点-澳洲_4
+  - name: 🇦🇺 澳洲_4
     server: ap1-au.er3.xyz
     port: 29984
     type: http
-    username: "377747156062175232"
-    password: 48031c6b-441f-4a20-9293-bc9c4cfb3928
+    username: "434642407942782976"
+    password: 68a7cfab-2e1a-4c17-8f3a-c50eadf28087
     tls: true
     skip-cert-verify: true
-  - name: 高速节点-澳洲_5
+  - name: 🇦🇺 澳洲_5
     server: ap1-au.er3.xyz
     port: 29985
     type: http
-    username: "377747156062175232"
-    password: 48031c6b-441f-4a20-9293-bc9c4cfb3928
+    username: "434642407942782976"
+    password: 68a7cfab-2e1a-4c17-8f3a-c50eadf28087
     tls: true
     skip-cert-verify: true
-  - name: 高速节点-澳洲_6
+  - name: 🇦🇺 澳洲_6
     server: ap1-au.er3.xyz
     port: 29986
     type: http
-    username: "377747156062175232"
-    password: 48031c6b-441f-4a20-9293-bc9c4cfb3928
+    username: "434642407942782976"
+    password: 68a7cfab-2e1a-4c17-8f3a-c50eadf28087
     tls: true
     skip-cert-verify: true
-  - name: 高速节点-澳洲_7
+  - name: 🇦🇺 澳洲_7
     server: ap1-au.er3.xyz
     port: 29987
     type: http
-    username: "377747156062175232"
-    password: 48031c6b-441f-4a20-9293-bc9c4cfb3928
+    username: "434642407942782976"
+    password: 68a7cfab-2e1a-4c17-8f3a-c50eadf28087
     tls: true
     skip-cert-verify: true
-  - name: 高速节点-澳洲_8
+  - name: 🇦🇺 澳洲_8
     server: ap1-au.er3.xyz
     port: 29988
     type: http
-    username: "377747156062175232"
-    password: 48031c6b-441f-4a20-9293-bc9c4cfb3928
+    username: "434642407942782976"
+    password: 68a7cfab-2e1a-4c17-8f3a-c50eadf28087
     tls: true
     skip-cert-verify: true
-  - name: 高速节点-1香港
+  - name: 1🇭🇰 香港
     server: global.ap.fastqvpn.com
     port: 29980
     type: http
-    username: "377747156062175232"
-    password: 48031c6b-441f-4a20-9293-bc9c4cfb3928
+    username: "434642407942782976"
+    password: 68a7cfab-2e1a-4c17-8f3a-c50eadf28087
     tls: true
     skip-cert-verify: true
-  - name: 高速节点-1澳洲
+  - name: 1🇦🇺 澳洲
     server: global.ap.fastqvpn.com
     port: 29982
     type: http
-    username: "377747156062175232"
-    password: 48031c6b-441f-4a20-9293-bc9c4cfb3928
+    username: "434642407942782976"
+    password: 68a7cfab-2e1a-4c17-8f3a-c50eadf28087
     tls: true
     skip-cert-verify: true
-  - name: 高速节点-1加拿大
+  - name: 1🇨🇦 加拿大
     server: global.ap.fastqvpn.com
     port: 29983
     type: http
-    username: "377747156062175232"
-    password: 48031c6b-441f-4a20-9293-bc9c4cfb3928
+    username: "434642407942782976"
+    password: 68a7cfab-2e1a-4c17-8f3a-c50eadf28087
     tls: true
     skip-cert-verify: true
-  - name: 高速节点-1德国
+  - name: 1🇩🇪 德国
     server: global.ap.fastqvpn.com
     port: 29984
     type: http
-    username: "377747156062175232"
-    password: 48031c6b-441f-4a20-9293-bc9c4cfb3928
+    username: "434642407942782976"
+    password: 68a7cfab-2e1a-4c17-8f3a-c50eadf28087
     tls: true
     skip-cert-verify: true
-  - name: 高速节点-1日本
+  - name: 1🇯🇵 日本
     server: global.ap.fastqvpn.com
     port: 29985
     type: http
-    username: "377747156062175232"
-    password: 48031c6b-441f-4a20-9293-bc9c4cfb3928
+    username: "434642407942782976"
+    password: 68a7cfab-2e1a-4c17-8f3a-c50eadf28087
     tls: true
     skip-cert-verify: true
-  - name: 高速节点-1新加坡
+  - name: 1🇸🇬 新加坡
     server: global.ap.fastqvpn.com
     port: 29986
     type: http
-    username: "377747156062175232"
-    password: 48031c6b-441f-4a20-9293-bc9c4cfb3928
+    username: "434642407942782976"
+    password: 68a7cfab-2e1a-4c17-8f3a-c50eadf28087
     tls: true
     skip-cert-verify: true
-  - name: 高速节点-1英国
+  - name: 1🇬🇧 英国
     server: global.ap.fastqvpn.com
     port: 29987
     type: http
-    username: "377747156062175232"
-    password: 48031c6b-441f-4a20-9293-bc9c4cfb3928
+    username: "434642407942782976"
+    password: 68a7cfab-2e1a-4c17-8f3a-c50eadf28087
     tls: true
     skip-cert-verify: true
-  - name: 高速节点-1美国
+  - name: 1🇺🇸 美国
     server: global.ap.fastqvpn.com
     port: 29988
     type: http
-    username: "377747156062175232"
-    password: 48031c6b-441f-4a20-9293-bc9c4cfb3928
+    username: "434642407942782976"
+    password: 68a7cfab-2e1a-4c17-8f3a-c50eadf28087
     tls: true
     skip-cert-verify: true
-  - name: 高速节点-2香港
+  - name: 2🇭🇰 香港
     server: tx.wy.fastqvpn.com
     port: 29980
     type: http
-    username: "377747156062175232"
-    password: 48031c6b-441f-4a20-9293-bc9c4cfb3928
+    username: "434642407942782976"
+    password: 68a7cfab-2e1a-4c17-8f3a-c50eadf28087
     tls: true
     skip-cert-verify: true
-  - name: 高速节点-2澳洲
+  - name: 2🇦🇺 澳洲
     server: tx.wy.fastqvpn.com
     port: 29982
     type: http
-    username: "377747156062175232"
-    password: 48031c6b-441f-4a20-9293-bc9c4cfb3928
+    username: "434642407942782976"
+    password: 68a7cfab-2e1a-4c17-8f3a-c50eadf28087
     tls: true
     skip-cert-verify: true
-  - name: 高速节点-2加拿大
+  - name: 2🇨🇦 加拿大
     server: tx.wy.fastqvpn.com
     port: 29983
     type: http
-    username: "377747156062175232"
-    password: 48031c6b-441f-4a20-9293-bc9c4cfb3928
+    username: "434642407942782976"
+    password: 68a7cfab-2e1a-4c17-8f3a-c50eadf28087
     tls: true
     skip-cert-verify: true
-  - name: 高速节点-2德国
+  - name: 2🇩🇪 德国
     server: tx.wy.fastqvpn.com
     port: 29984
     type: http
-    username: "377747156062175232"
-    password: 48031c6b-441f-4a20-9293-bc9c4cfb3928
+    username: "434642407942782976"
+    password: 68a7cfab-2e1a-4c17-8f3a-c50eadf28087
     tls: true
     skip-cert-verify: true
-  - name: 高速节点-2日本
+  - name: 2🇯🇵 日本
     server: tx.wy.fastqvpn.com
     port: 29985
     type: http
-    username: "377747156062175232"
-    password: 48031c6b-441f-4a20-9293-bc9c4cfb3928
+    username: "434642407942782976"
+    password: 68a7cfab-2e1a-4c17-8f3a-c50eadf28087
     tls: true
     skip-cert-verify: true
-  - name: 高速节点-2新加坡
+  - name: 2🇸🇬 新加坡
     server: tx.wy.fastqvpn.com
     port: 29986
     type: http
-    username: "377747156062175232"
-    password: 48031c6b-441f-4a20-9293-bc9c4cfb3928
+    username: "434642407942782976"
+    password: 68a7cfab-2e1a-4c17-8f3a-c50eadf28087
     tls: true
     skip-cert-verify: true
-  - name: 高速节点-2英国
+  - name: 2🇬🇧 英国
     server: tx.wy.fastqvpn.com
     port: 29987
     type: http
-    username: "377747156062175232"
-    password: 48031c6b-441f-4a20-9293-bc9c4cfb3928
+    username: "434642407942782976"
+    password: 68a7cfab-2e1a-4c17-8f3a-c50eadf28087
     tls: true
     skip-cert-verify: true
-  - name: 高速节点-2美国
+  - name: 2🇺🇸 美国
     server: tx.wy.fastqvpn.com
     port: 29988
     type: http
-    username: "377747156062175232"
-    password: 48031c6b-441f-4a20-9293-bc9c4cfb3928
+    username: "434642407942782976"
+    password: 68a7cfab-2e1a-4c17-8f3a-c50eadf28087
     tls: true
     skip-cert-verify: true
-  - name: 高速节点-3香港
+  - name: 3🇭🇰 香港
     server: a1.er3.xyz
     port: 29980
     type: http
-    username: "377747156062175232"
-    password: 48031c6b-441f-4a20-9293-bc9c4cfb3928
+    username: "434642407942782976"
+    password: 68a7cfab-2e1a-4c17-8f3a-c50eadf28087
     tls: true
     skip-cert-verify: true
-  - name: 高速节点-3澳洲
+  - name: 3🇦🇺 澳洲
     server: a1.er3.xyz
     port: 29982
     type: http
-    username: "377747156062175232"
-    password: 48031c6b-441f-4a20-9293-bc9c4cfb3928
+    username: "434642407942782976"
+    password: 68a7cfab-2e1a-4c17-8f3a-c50eadf28087
     tls: true
     skip-cert-verify: true
-  - name: 高速节点-3加拿大
+  - name: 3🇨🇦 加拿大
     server: a1.er3.xyz
     port: 29983
     type: http
-    username: "377747156062175232"
-    password: 48031c6b-441f-4a20-9293-bc9c4cfb3928
+    username: "434642407942782976"
+    password: 68a7cfab-2e1a-4c17-8f3a-c50eadf28087
     tls: true
     skip-cert-verify: true
-  - name: 高速节点-3德国
+  - name: 3🇩🇪 德国
     server: a1.er3.xyz
     port: 29984
     type: http
-    username: "377747156062175232"
-    password: 48031c6b-441f-4a20-9293-bc9c4cfb3928
+    username: "434642407942782976"
+    password: 68a7cfab-2e1a-4c17-8f3a-c50eadf28087
     tls: true
     skip-cert-verify: true
-  - name: 高速节点-3日本
+  - name: 3🇯🇵 日本
     server: a1.er3.xyz
     port: 29985
     type: http
-    username: "377747156062175232"
-    password: 48031c6b-441f-4a20-9293-bc9c4cfb3928
+    username: "434642407942782976"
+    password: 68a7cfab-2e1a-4c17-8f3a-c50eadf28087
     tls: true
     skip-cert-verify: true
-  - name: 高速节点-3新加坡
+  - name: 3🇸🇬 新加坡
     server: a1.er3.xyz
     port: 29986
     type: http
-    username: "377747156062175232"
-    password: 48031c6b-441f-4a20-9293-bc9c4cfb3928
+    username: "434642407942782976"
+    password: 68a7cfab-2e1a-4c17-8f3a-c50eadf28087
     tls: true
     skip-cert-verify: true
-  - name: 高速节点-3英国
+  - name: 3🇬🇧 英国
     server: a1.er3.xyz
     port: 29987
     type: http
-    username: "377747156062175232"
-    password: 48031c6b-441f-4a20-9293-bc9c4cfb3928
+    username: "434642407942782976"
+    password: 68a7cfab-2e1a-4c17-8f3a-c50eadf28087
     tls: true
     skip-cert-verify: true
-  - name: 高速节点-3美国
+  - name: 3🇺🇸 美国
     server: a1.er3.xyz
     port: 29988
     type: http
-    username: "377747156062175232"
-    password: 48031c6b-441f-4a20-9293-bc9c4cfb3928
+    username: "434642407942782976"
+    password: 68a7cfab-2e1a-4c17-8f3a-c50eadf28087
     tls: true
     skip-cert-verify: true
-  - name: 高速节点-4香港
+  - name: 4🇭🇰 香港
     server: ap1-ge.er3.xyz
     port: 29980
     type: http
-    username: "377747156062175232"
-    password: 48031c6b-441f-4a20-9293-bc9c4cfb3928
+    username: "434642407942782976"
+    password: 68a7cfab-2e1a-4c17-8f3a-c50eadf28087
     tls: true
     skip-cert-verify: true
-  - name: 高速节点-4澳洲
+  - name: 4🇦🇺 澳洲
     server: ap1-ge.er3.xyz
     port: 29982
     type: http
-    username: "377747156062175232"
-    password: 48031c6b-441f-4a20-9293-bc9c4cfb3928
+    username: "434642407942782976"
+    password: 68a7cfab-2e1a-4c17-8f3a-c50eadf28087
     tls: true
     skip-cert-verify: true
-  - name: 高速节点-4加拿大
+  - name: 4🇨🇦 加拿大
     server: ap1-ge.er3.xyz
     port: 29983
     type: http
-    username: "377747156062175232"
-    password: 48031c6b-441f-4a20-9293-bc9c4cfb3928
+    username: "434642407942782976"
+    password: 68a7cfab-2e1a-4c17-8f3a-c50eadf28087
     tls: true
     skip-cert-verify: true
-  - name: 高速节点-4德国
+  - name: 4🇩🇪 德国
     server: ap1-ge.er3.xyz
     port: 29984
     type: http
-    username: "377747156062175232"
-    password: 48031c6b-441f-4a20-9293-bc9c4cfb3928
+    username: "434642407942782976"
+    password: 68a7cfab-2e1a-4c17-8f3a-c50eadf28087
     tls: true
     skip-cert-verify: true
-  - name: 高速节点-4日本
+  - name: 4🇯🇵 日本
     server: ap1-ge.er3.xyz
     port: 29985
     type: http
-    username: "377747156062175232"
-    password: 48031c6b-441f-4a20-9293-bc9c4cfb3928
+    username: "434642407942782976"
+    password: 68a7cfab-2e1a-4c17-8f3a-c50eadf28087
     tls: true
     skip-cert-verify: true
-  - name: 高速节点-4新加坡
+  - name: 4🇸🇬 新加坡
     server: ap1-ge.er3.xyz
     port: 29986
     type: http
-    username: "377747156062175232"
-    password: 48031c6b-441f-4a20-9293-bc9c4cfb3928
+    username: "434642407942782976"
+    password: 68a7cfab-2e1a-4c17-8f3a-c50eadf28087
     tls: true
     skip-cert-verify: true
-  - name: 高速节点-4英国
+  - name: 4🇬🇧 英国
     server: ap1-ge.er3.xyz
     port: 29987
     type: http
-    username: "377747156062175232"
-    password: 48031c6b-441f-4a20-9293-bc9c4cfb3928
+    username: "434642407942782976"
+    password: 68a7cfab-2e1a-4c17-8f3a-c50eadf28087
     tls: true
     skip-cert-verify: true
-  - name: 高速节点-4美国
+  - name: 4🇺🇸 美国
     server: ap1-ge.er3.xyz
     port: 29988
     type: http
-    username: "377747156062175232"
-    password: 48031c6b-441f-4a20-9293-bc9c4cfb3928
+    username: "434642407942782976"
+    password: 68a7cfab-2e1a-4c17-8f3a-c50eadf28087
     tls: true
     skip-cert-verify: true
 proxy-groups:
@@ -691,633 +691,633 @@ proxy-groups:
     proxies:
       - ♻️ 自动选择
       - 🎯 全球直连
-      - a1
-      - a2
-      - 高速节点-香港_3
-      - 高速节点-香港_4
-      - 高速节点-香港_5
-      - 高速节点-日本_1
-      - 高速节点-日本_2
-      - 高速节点-日本_3
-      - 高速节点-日本_4
-      - 高速节点-日本_5
-      - 高速节点-日本_6
-      - 高速节点-日本_7
-      - 高速节点-日本_8
-      - 高速节点-新加坡_1
-      - 高速节点-新加坡_2
-      - 高速节点-新加坡_3
-      - 高速节点-新加坡_4
-      - 高速节点-新加坡_5
-      - 高速节点-新加坡_6
-      - 高速节点-新加坡_7
-      - 高速节点-新加坡_8
-      - 高速节点-美国_1
-      - 高速节点-美国_2
-      - 高速节点-美国_3
-      - 高速节点-美国_4
-      - 高速节点-美国_5
-      - 高速节点-美国_6
-      - 高速节点-美国_7
-      - 高速节点-美国_8
-      - 高速节点-英国_1
-      - 高速节点-英国_2
-      - 高速节点-英国_3
-      - 高速节点-英国_4
-      - 高速节点-英国_5
-      - 高速节点-英国_6
-      - 高速节点-英国_7
-      - 高速节点-英国_8
-      - 高速节点-加拿大_1
-      - 高速节点-加拿大_2
-      - 高速节点-加拿大_3
-      - 高速节点-加拿大_4
-      - 高速节点-加拿大_5
-      - 高速节点-加拿大_6
-      - 高速节点-加拿大_7
-      - 高速节点-加拿大_8
-      - 高速节点-澳洲_1
-      - 高速节点-澳洲_2
-      - 高速节点-澳洲_3
-      - 高速节点-澳洲_4
-      - 高速节点-澳洲_5
-      - 高速节点-澳洲_6
-      - 高速节点-澳洲_7
-      - 高速节点-澳洲_8
-      - 高速节点-1香港
-      - 高速节点-1澳洲
-      - 高速节点-1加拿大
-      - 高速节点-1德国
-      - 高速节点-1日本
-      - 高速节点-1新加坡
-      - 高速节点-1英国
-      - 高速节点-1美国
-      - 高速节点-2香港
-      - 高速节点-2澳洲
-      - 高速节点-2加拿大
-      - 高速节点-2德国
-      - 高速节点-2日本
-      - 高速节点-2新加坡
-      - 高速节点-2英国
-      - 高速节点-2美国
-      - 高速节点-3香港
-      - 高速节点-3澳洲
-      - 高速节点-3加拿大
-      - 高速节点-3德国
-      - 高速节点-3日本
-      - 高速节点-3新加坡
-      - 高速节点-3英国
-      - 高速节点-3美国
-      - 高速节点-4香港
-      - 高速节点-4澳洲
-      - 高速节点-4加拿大
-      - 高速节点-4德国
-      - 高速节点-4日本
-      - 高速节点-4新加坡
-      - 高速节点-4英国
-      - 高速节点-4美国
+      - 🇭🇰 香港1
+      - 🇭🇰 香港2
+      - 🇭🇰 香港_3
+      - 🇭🇰 香港_4
+      - 🇭🇰 香港_5
+      - 🇯🇵 日本_1
+      - 🇯🇵 日本_2
+      - 🇯🇵 日本_3
+      - 🇯🇵 日本_4
+      - 🇯🇵 日本_5
+      - 🇯🇵 日本_6
+      - 🇯🇵 日本_7
+      - 🇯🇵 日本_8
+      - 🇸🇬 新加坡_1
+      - 🇸🇬 新加坡_2
+      - 🇸🇬 新加坡_3
+      - 🇸🇬 新加坡_4
+      - 🇸🇬 新加坡_5
+      - 🇸🇬 新加坡_6
+      - 🇸🇬 新加坡_7
+      - 🇸🇬 新加坡_8
+      - 🇺🇸 美国_1
+      - 🇺🇸 美国_2
+      - 🇺🇸 美国_3
+      - 🇺🇸 美国_4
+      - 🇺🇸 美国_5
+      - 🇺🇸 美国_6
+      - 🇺🇸 美国_7
+      - 🇺🇸 美国_8
+      - 🇬🇧 英国_1
+      - 🇬🇧 英国_2
+      - 🇬🇧 英国_3
+      - 🇬🇧 英国_4
+      - 🇬🇧 英国_5
+      - 🇬🇧 英国_6
+      - 🇬🇧 英国_7
+      - 🇬🇧 英国_8
+      - 🇨🇦 加拿大_1
+      - 🇨🇦 加拿大_2
+      - 🇨🇦 加拿大_3
+      - 🇨🇦 加拿大_4
+      - 🇨🇦 加拿大_5
+      - 🇨🇦 加拿大_6
+      - 🇨🇦 加拿大_7
+      - 🇨🇦 加拿大_8
+      - 🇦🇺 澳洲_1
+      - 🇦🇺 澳洲_2
+      - 🇦🇺 澳洲_3
+      - 🇦🇺 澳洲_4
+      - 🇦🇺 澳洲_5
+      - 🇦🇺 澳洲_6
+      - 🇦🇺 澳洲_7
+      - 🇦🇺 澳洲_8
+      - 1🇭🇰 香港
+      - 1🇦🇺 澳洲
+      - 1🇨🇦 加拿大
+      - 1🇩🇪 德国
+      - 1🇯🇵 日本
+      - 1🇸🇬 新加坡
+      - 1🇬🇧 英国
+      - 1🇺🇸 美国
+      - 2🇭🇰 香港
+      - 2🇦🇺 澳洲
+      - 2🇨🇦 加拿大
+      - 2🇩🇪 德国
+      - 2🇯🇵 日本
+      - 2🇸🇬 新加坡
+      - 2🇬🇧 英国
+      - 2🇺🇸 美国
+      - 3🇭🇰 香港
+      - 3🇦🇺 澳洲
+      - 3🇨🇦 加拿大
+      - 3🇩🇪 德国
+      - 3🇯🇵 日本
+      - 3🇸🇬 新加坡
+      - 3🇬🇧 英国
+      - 3🇺🇸 美国
+      - 4🇭🇰 香港
+      - 4🇦🇺 澳洲
+      - 4🇨🇦 加拿大
+      - 4🇩🇪 德国
+      - 4🇯🇵 日本
+      - 4🇸🇬 新加坡
+      - 4🇬🇧 英国
+      - 4🇺🇸 美国
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
     interval: 300
     proxies:
-      - a1
-      - a2
-      - 高速节点-香港_3
-      - 高速节点-香港_4
-      - 高速节点-香港_5
-      - 高速节点-日本_1
-      - 高速节点-日本_2
-      - 高速节点-日本_3
-      - 高速节点-日本_4
-      - 高速节点-日本_5
-      - 高速节点-日本_6
-      - 高速节点-日本_7
-      - 高速节点-日本_8
-      - 高速节点-新加坡_1
-      - 高速节点-新加坡_2
-      - 高速节点-新加坡_3
-      - 高速节点-新加坡_4
-      - 高速节点-新加坡_5
-      - 高速节点-新加坡_6
-      - 高速节点-新加坡_7
-      - 高速节点-新加坡_8
-      - 高速节点-美国_1
-      - 高速节点-美国_2
-      - 高速节点-美国_3
-      - 高速节点-美国_4
-      - 高速节点-美国_5
-      - 高速节点-美国_6
-      - 高速节点-美国_7
-      - 高速节点-美国_8
-      - 高速节点-英国_1
-      - 高速节点-英国_2
-      - 高速节点-英国_3
-      - 高速节点-英国_4
-      - 高速节点-英国_5
-      - 高速节点-英国_6
-      - 高速节点-英国_7
-      - 高速节点-英国_8
-      - 高速节点-加拿大_1
-      - 高速节点-加拿大_2
-      - 高速节点-加拿大_3
-      - 高速节点-加拿大_4
-      - 高速节点-加拿大_5
-      - 高速节点-加拿大_6
-      - 高速节点-加拿大_7
-      - 高速节点-加拿大_8
-      - 高速节点-澳洲_1
-      - 高速节点-澳洲_2
-      - 高速节点-澳洲_3
-      - 高速节点-澳洲_4
-      - 高速节点-澳洲_5
-      - 高速节点-澳洲_6
-      - 高速节点-澳洲_7
-      - 高速节点-澳洲_8
-      - 高速节点-1香港
-      - 高速节点-1澳洲
-      - 高速节点-1加拿大
-      - 高速节点-1德国
-      - 高速节点-1日本
-      - 高速节点-1新加坡
-      - 高速节点-1英国
-      - 高速节点-1美国
-      - 高速节点-2香港
-      - 高速节点-2澳洲
-      - 高速节点-2加拿大
-      - 高速节点-2德国
-      - 高速节点-2日本
-      - 高速节点-2新加坡
-      - 高速节点-2英国
-      - 高速节点-2美国
-      - 高速节点-3香港
-      - 高速节点-3澳洲
-      - 高速节点-3加拿大
-      - 高速节点-3德国
-      - 高速节点-3日本
-      - 高速节点-3新加坡
-      - 高速节点-3英国
-      - 高速节点-3美国
-      - 高速节点-4香港
-      - 高速节点-4澳洲
-      - 高速节点-4加拿大
-      - 高速节点-4德国
-      - 高速节点-4日本
-      - 高速节点-4新加坡
-      - 高速节点-4英国
-      - 高速节点-4美国
+      - 🇭🇰 香港1
+      - 🇭🇰 香港2
+      - 🇭🇰 香港_3
+      - 🇭🇰 香港_4
+      - 🇭🇰 香港_5
+      - 🇯🇵 日本_1
+      - 🇯🇵 日本_2
+      - 🇯🇵 日本_3
+      - 🇯🇵 日本_4
+      - 🇯🇵 日本_5
+      - 🇯🇵 日本_6
+      - 🇯🇵 日本_7
+      - 🇯🇵 日本_8
+      - 🇸🇬 新加坡_1
+      - 🇸🇬 新加坡_2
+      - 🇸🇬 新加坡_3
+      - 🇸🇬 新加坡_4
+      - 🇸🇬 新加坡_5
+      - 🇸🇬 新加坡_6
+      - 🇸🇬 新加坡_7
+      - 🇸🇬 新加坡_8
+      - 🇺🇸 美国_1
+      - 🇺🇸 美国_2
+      - 🇺🇸 美国_3
+      - 🇺🇸 美国_4
+      - 🇺🇸 美国_5
+      - 🇺🇸 美国_6
+      - 🇺🇸 美国_7
+      - 🇺🇸 美国_8
+      - 🇬🇧 英国_1
+      - 🇬🇧 英国_2
+      - 🇬🇧 英国_3
+      - 🇬🇧 英国_4
+      - 🇬🇧 英国_5
+      - 🇬🇧 英国_6
+      - 🇬🇧 英国_7
+      - 🇬🇧 英国_8
+      - 🇨🇦 加拿大_1
+      - 🇨🇦 加拿大_2
+      - 🇨🇦 加拿大_3
+      - 🇨🇦 加拿大_4
+      - 🇨🇦 加拿大_5
+      - 🇨🇦 加拿大_6
+      - 🇨🇦 加拿大_7
+      - 🇨🇦 加拿大_8
+      - 🇦🇺 澳洲_1
+      - 🇦🇺 澳洲_2
+      - 🇦🇺 澳洲_3
+      - 🇦🇺 澳洲_4
+      - 🇦🇺 澳洲_5
+      - 🇦🇺 澳洲_6
+      - 🇦🇺 澳洲_7
+      - 🇦🇺 澳洲_8
+      - 1🇭🇰 香港
+      - 1🇦🇺 澳洲
+      - 1🇨🇦 加拿大
+      - 1🇩🇪 德国
+      - 1🇯🇵 日本
+      - 1🇸🇬 新加坡
+      - 1🇬🇧 英国
+      - 1🇺🇸 美国
+      - 2🇭🇰 香港
+      - 2🇦🇺 澳洲
+      - 2🇨🇦 加拿大
+      - 2🇩🇪 德国
+      - 2🇯🇵 日本
+      - 2🇸🇬 新加坡
+      - 2🇬🇧 英国
+      - 2🇺🇸 美国
+      - 3🇭🇰 香港
+      - 3🇦🇺 澳洲
+      - 3🇨🇦 加拿大
+      - 3🇩🇪 德国
+      - 3🇯🇵 日本
+      - 3🇸🇬 新加坡
+      - 3🇬🇧 英国
+      - 3🇺🇸 美国
+      - 4🇭🇰 香港
+      - 4🇦🇺 澳洲
+      - 4🇨🇦 加拿大
+      - 4🇩🇪 德国
+      - 4🇯🇵 日本
+      - 4🇸🇬 新加坡
+      - 4🇬🇧 英国
+      - 4🇺🇸 美国
   - name: 🌍 国外媒体
     type: select
     proxies:
       - 🔰 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
-      - a1
-      - a2
-      - 高速节点-香港_3
-      - 高速节点-香港_4
-      - 高速节点-香港_5
-      - 高速节点-日本_1
-      - 高速节点-日本_2
-      - 高速节点-日本_3
-      - 高速节点-日本_4
-      - 高速节点-日本_5
-      - 高速节点-日本_6
-      - 高速节点-日本_7
-      - 高速节点-日本_8
-      - 高速节点-新加坡_1
-      - 高速节点-新加坡_2
-      - 高速节点-新加坡_3
-      - 高速节点-新加坡_4
-      - 高速节点-新加坡_5
-      - 高速节点-新加坡_6
-      - 高速节点-新加坡_7
-      - 高速节点-新加坡_8
-      - 高速节点-美国_1
-      - 高速节点-美国_2
-      - 高速节点-美国_3
-      - 高速节点-美国_4
-      - 高速节点-美国_5
-      - 高速节点-美国_6
-      - 高速节点-美国_7
-      - 高速节点-美国_8
-      - 高速节点-英国_1
-      - 高速节点-英国_2
-      - 高速节点-英国_3
-      - 高速节点-英国_4
-      - 高速节点-英国_5
-      - 高速节点-英国_6
-      - 高速节点-英国_7
-      - 高速节点-英国_8
-      - 高速节点-加拿大_1
-      - 高速节点-加拿大_2
-      - 高速节点-加拿大_3
-      - 高速节点-加拿大_4
-      - 高速节点-加拿大_5
-      - 高速节点-加拿大_6
-      - 高速节点-加拿大_7
-      - 高速节点-加拿大_8
-      - 高速节点-澳洲_1
-      - 高速节点-澳洲_2
-      - 高速节点-澳洲_3
-      - 高速节点-澳洲_4
-      - 高速节点-澳洲_5
-      - 高速节点-澳洲_6
-      - 高速节点-澳洲_7
-      - 高速节点-澳洲_8
-      - 高速节点-1香港
-      - 高速节点-1澳洲
-      - 高速节点-1加拿大
-      - 高速节点-1德国
-      - 高速节点-1日本
-      - 高速节点-1新加坡
-      - 高速节点-1英国
-      - 高速节点-1美国
-      - 高速节点-2香港
-      - 高速节点-2澳洲
-      - 高速节点-2加拿大
-      - 高速节点-2德国
-      - 高速节点-2日本
-      - 高速节点-2新加坡
-      - 高速节点-2英国
-      - 高速节点-2美国
-      - 高速节点-3香港
-      - 高速节点-3澳洲
-      - 高速节点-3加拿大
-      - 高速节点-3德国
-      - 高速节点-3日本
-      - 高速节点-3新加坡
-      - 高速节点-3英国
-      - 高速节点-3美国
-      - 高速节点-4香港
-      - 高速节点-4澳洲
-      - 高速节点-4加拿大
-      - 高速节点-4德国
-      - 高速节点-4日本
-      - 高速节点-4新加坡
-      - 高速节点-4英国
-      - 高速节点-4美国
+      - 🇭🇰 香港1
+      - 🇭🇰 香港2
+      - 🇭🇰 香港_3
+      - 🇭🇰 香港_4
+      - 🇭🇰 香港_5
+      - 🇯🇵 日本_1
+      - 🇯🇵 日本_2
+      - 🇯🇵 日本_3
+      - 🇯🇵 日本_4
+      - 🇯🇵 日本_5
+      - 🇯🇵 日本_6
+      - 🇯🇵 日本_7
+      - 🇯🇵 日本_8
+      - 🇸🇬 新加坡_1
+      - 🇸🇬 新加坡_2
+      - 🇸🇬 新加坡_3
+      - 🇸🇬 新加坡_4
+      - 🇸🇬 新加坡_5
+      - 🇸🇬 新加坡_6
+      - 🇸🇬 新加坡_7
+      - 🇸🇬 新加坡_8
+      - 🇺🇸 美国_1
+      - 🇺🇸 美国_2
+      - 🇺🇸 美国_3
+      - 🇺🇸 美国_4
+      - 🇺🇸 美国_5
+      - 🇺🇸 美国_6
+      - 🇺🇸 美国_7
+      - 🇺🇸 美国_8
+      - 🇬🇧 英国_1
+      - 🇬🇧 英国_2
+      - 🇬🇧 英国_3
+      - 🇬🇧 英国_4
+      - 🇬🇧 英国_5
+      - 🇬🇧 英国_6
+      - 🇬🇧 英国_7
+      - 🇬🇧 英国_8
+      - 🇨🇦 加拿大_1
+      - 🇨🇦 加拿大_2
+      - 🇨🇦 加拿大_3
+      - 🇨🇦 加拿大_4
+      - 🇨🇦 加拿大_5
+      - 🇨🇦 加拿大_6
+      - 🇨🇦 加拿大_7
+      - 🇨🇦 加拿大_8
+      - 🇦🇺 澳洲_1
+      - 🇦🇺 澳洲_2
+      - 🇦🇺 澳洲_3
+      - 🇦🇺 澳洲_4
+      - 🇦🇺 澳洲_5
+      - 🇦🇺 澳洲_6
+      - 🇦🇺 澳洲_7
+      - 🇦🇺 澳洲_8
+      - 1🇭🇰 香港
+      - 1🇦🇺 澳洲
+      - 1🇨🇦 加拿大
+      - 1🇩🇪 德国
+      - 1🇯🇵 日本
+      - 1🇸🇬 新加坡
+      - 1🇬🇧 英国
+      - 1🇺🇸 美国
+      - 2🇭🇰 香港
+      - 2🇦🇺 澳洲
+      - 2🇨🇦 加拿大
+      - 2🇩🇪 德国
+      - 2🇯🇵 日本
+      - 2🇸🇬 新加坡
+      - 2🇬🇧 英国
+      - 2🇺🇸 美国
+      - 3🇭🇰 香港
+      - 3🇦🇺 澳洲
+      - 3🇨🇦 加拿大
+      - 3🇩🇪 德国
+      - 3🇯🇵 日本
+      - 3🇸🇬 新加坡
+      - 3🇬🇧 英国
+      - 3🇺🇸 美国
+      - 4🇭🇰 香港
+      - 4🇦🇺 澳洲
+      - 4🇨🇦 加拿大
+      - 4🇩🇪 德国
+      - 4🇯🇵 日本
+      - 4🇸🇬 新加坡
+      - 4🇬🇧 英国
+      - 4🇺🇸 美国
   - name: 🌏 国内媒体
     type: select
     proxies:
       - 🎯 全球直连
-      - a1
-      - a2
-      - 高速节点-香港_3
-      - 高速节点-香港_4
-      - 高速节点-香港_5
-      - 高速节点-日本_1
-      - 高速节点-日本_2
-      - 高速节点-日本_3
-      - 高速节点-日本_4
-      - 高速节点-日本_5
-      - 高速节点-日本_6
-      - 高速节点-日本_7
-      - 高速节点-日本_8
-      - 高速节点-新加坡_1
-      - 高速节点-新加坡_2
-      - 高速节点-新加坡_3
-      - 高速节点-新加坡_4
-      - 高速节点-新加坡_5
-      - 高速节点-新加坡_6
-      - 高速节点-新加坡_7
-      - 高速节点-新加坡_8
-      - 高速节点-美国_1
-      - 高速节点-美国_2
-      - 高速节点-美国_3
-      - 高速节点-美国_4
-      - 高速节点-美国_5
-      - 高速节点-美国_6
-      - 高速节点-美国_7
-      - 高速节点-美国_8
-      - 高速节点-英国_1
-      - 高速节点-英国_2
-      - 高速节点-英国_3
-      - 高速节点-英国_4
-      - 高速节点-英国_5
-      - 高速节点-英国_6
-      - 高速节点-英国_7
-      - 高速节点-英国_8
-      - 高速节点-加拿大_1
-      - 高速节点-加拿大_2
-      - 高速节点-加拿大_3
-      - 高速节点-加拿大_4
-      - 高速节点-加拿大_5
-      - 高速节点-加拿大_6
-      - 高速节点-加拿大_7
-      - 高速节点-加拿大_8
-      - 高速节点-澳洲_1
-      - 高速节点-澳洲_2
-      - 高速节点-澳洲_3
-      - 高速节点-澳洲_4
-      - 高速节点-澳洲_5
-      - 高速节点-澳洲_6
-      - 高速节点-澳洲_7
-      - 高速节点-澳洲_8
-      - 高速节点-1香港
-      - 高速节点-1澳洲
-      - 高速节点-1加拿大
-      - 高速节点-1德国
-      - 高速节点-1日本
-      - 高速节点-1新加坡
-      - 高速节点-1英国
-      - 高速节点-1美国
-      - 高速节点-2香港
-      - 高速节点-2澳洲
-      - 高速节点-2加拿大
-      - 高速节点-2德国
-      - 高速节点-2日本
-      - 高速节点-2新加坡
-      - 高速节点-2英国
-      - 高速节点-2美国
-      - 高速节点-3香港
-      - 高速节点-3澳洲
-      - 高速节点-3加拿大
-      - 高速节点-3德国
-      - 高速节点-3日本
-      - 高速节点-3新加坡
-      - 高速节点-3英国
-      - 高速节点-3美国
-      - 高速节点-4香港
-      - 高速节点-4澳洲
-      - 高速节点-4加拿大
-      - 高速节点-4德国
-      - 高速节点-4日本
-      - 高速节点-4新加坡
-      - 高速节点-4英国
-      - 高速节点-4美国
+      - 🇭🇰 香港1
+      - 🇭🇰 香港2
+      - 🇭🇰 香港_3
+      - 🇭🇰 香港_4
+      - 🇭🇰 香港_5
+      - 🇯🇵 日本_1
+      - 🇯🇵 日本_2
+      - 🇯🇵 日本_3
+      - 🇯🇵 日本_4
+      - 🇯🇵 日本_5
+      - 🇯🇵 日本_6
+      - 🇯🇵 日本_7
+      - 🇯🇵 日本_8
+      - 🇸🇬 新加坡_1
+      - 🇸🇬 新加坡_2
+      - 🇸🇬 新加坡_3
+      - 🇸🇬 新加坡_4
+      - 🇸🇬 新加坡_5
+      - 🇸🇬 新加坡_6
+      - 🇸🇬 新加坡_7
+      - 🇸🇬 新加坡_8
+      - 🇺🇸 美国_1
+      - 🇺🇸 美国_2
+      - 🇺🇸 美国_3
+      - 🇺🇸 美国_4
+      - 🇺🇸 美国_5
+      - 🇺🇸 美国_6
+      - 🇺🇸 美国_7
+      - 🇺🇸 美国_8
+      - 🇬🇧 英国_1
+      - 🇬🇧 英国_2
+      - 🇬🇧 英国_3
+      - 🇬🇧 英国_4
+      - 🇬🇧 英国_5
+      - 🇬🇧 英国_6
+      - 🇬🇧 英国_7
+      - 🇬🇧 英国_8
+      - 🇨🇦 加拿大_1
+      - 🇨🇦 加拿大_2
+      - 🇨🇦 加拿大_3
+      - 🇨🇦 加拿大_4
+      - 🇨🇦 加拿大_5
+      - 🇨🇦 加拿大_6
+      - 🇨🇦 加拿大_7
+      - 🇨🇦 加拿大_8
+      - 🇦🇺 澳洲_1
+      - 🇦🇺 澳洲_2
+      - 🇦🇺 澳洲_3
+      - 🇦🇺 澳洲_4
+      - 🇦🇺 澳洲_5
+      - 🇦🇺 澳洲_6
+      - 🇦🇺 澳洲_7
+      - 🇦🇺 澳洲_8
+      - 1🇭🇰 香港
+      - 1🇦🇺 澳洲
+      - 1🇨🇦 加拿大
+      - 1🇩🇪 德国
+      - 1🇯🇵 日本
+      - 1🇸🇬 新加坡
+      - 1🇬🇧 英国
+      - 1🇺🇸 美国
+      - 2🇭🇰 香港
+      - 2🇦🇺 澳洲
+      - 2🇨🇦 加拿大
+      - 2🇩🇪 德国
+      - 2🇯🇵 日本
+      - 2🇸🇬 新加坡
+      - 2🇬🇧 英国
+      - 2🇺🇸 美国
+      - 3🇭🇰 香港
+      - 3🇦🇺 澳洲
+      - 3🇨🇦 加拿大
+      - 3🇩🇪 德国
+      - 3🇯🇵 日本
+      - 3🇸🇬 新加坡
+      - 3🇬🇧 英国
+      - 3🇺🇸 美国
+      - 4🇭🇰 香港
+      - 4🇦🇺 澳洲
+      - 4🇨🇦 加拿大
+      - 4🇩🇪 德国
+      - 4🇯🇵 日本
+      - 4🇸🇬 新加坡
+      - 4🇬🇧 英国
+      - 4🇺🇸 美国
       - 🔰 节点选择
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
       - 🎯 全球直连
       - 🔰 节点选择
-      - a1
-      - a2
-      - 高速节点-香港_3
-      - 高速节点-香港_4
-      - 高速节点-香港_5
-      - 高速节点-日本_1
-      - 高速节点-日本_2
-      - 高速节点-日本_3
-      - 高速节点-日本_4
-      - 高速节点-日本_5
-      - 高速节点-日本_6
-      - 高速节点-日本_7
-      - 高速节点-日本_8
-      - 高速节点-新加坡_1
-      - 高速节点-新加坡_2
-      - 高速节点-新加坡_3
-      - 高速节点-新加坡_4
-      - 高速节点-新加坡_5
-      - 高速节点-新加坡_6
-      - 高速节点-新加坡_7
-      - 高速节点-新加坡_8
-      - 高速节点-美国_1
-      - 高速节点-美国_2
-      - 高速节点-美国_3
-      - 高速节点-美国_4
-      - 高速节点-美国_5
-      - 高速节点-美国_6
-      - 高速节点-美国_7
-      - 高速节点-美国_8
-      - 高速节点-英国_1
-      - 高速节点-英国_2
-      - 高速节点-英国_3
-      - 高速节点-英国_4
-      - 高速节点-英国_5
-      - 高速节点-英国_6
-      - 高速节点-英国_7
-      - 高速节点-英国_8
-      - 高速节点-加拿大_1
-      - 高速节点-加拿大_2
-      - 高速节点-加拿大_3
-      - 高速节点-加拿大_4
-      - 高速节点-加拿大_5
-      - 高速节点-加拿大_6
-      - 高速节点-加拿大_7
-      - 高速节点-加拿大_8
-      - 高速节点-澳洲_1
-      - 高速节点-澳洲_2
-      - 高速节点-澳洲_3
-      - 高速节点-澳洲_4
-      - 高速节点-澳洲_5
-      - 高速节点-澳洲_6
-      - 高速节点-澳洲_7
-      - 高速节点-澳洲_8
-      - 高速节点-1香港
-      - 高速节点-1澳洲
-      - 高速节点-1加拿大
-      - 高速节点-1德国
-      - 高速节点-1日本
-      - 高速节点-1新加坡
-      - 高速节点-1英国
-      - 高速节点-1美国
-      - 高速节点-2香港
-      - 高速节点-2澳洲
-      - 高速节点-2加拿大
-      - 高速节点-2德国
-      - 高速节点-2日本
-      - 高速节点-2新加坡
-      - 高速节点-2英国
-      - 高速节点-2美国
-      - 高速节点-3香港
-      - 高速节点-3澳洲
-      - 高速节点-3加拿大
-      - 高速节点-3德国
-      - 高速节点-3日本
-      - 高速节点-3新加坡
-      - 高速节点-3英国
-      - 高速节点-3美国
-      - 高速节点-4香港
-      - 高速节点-4澳洲
-      - 高速节点-4加拿大
-      - 高速节点-4德国
-      - 高速节点-4日本
-      - 高速节点-4新加坡
-      - 高速节点-4英国
-      - 高速节点-4美国
+      - 🇭🇰 香港1
+      - 🇭🇰 香港2
+      - 🇭🇰 香港_3
+      - 🇭🇰 香港_4
+      - 🇭🇰 香港_5
+      - 🇯🇵 日本_1
+      - 🇯🇵 日本_2
+      - 🇯🇵 日本_3
+      - 🇯🇵 日本_4
+      - 🇯🇵 日本_5
+      - 🇯🇵 日本_6
+      - 🇯🇵 日本_7
+      - 🇯🇵 日本_8
+      - 🇸🇬 新加坡_1
+      - 🇸🇬 新加坡_2
+      - 🇸🇬 新加坡_3
+      - 🇸🇬 新加坡_4
+      - 🇸🇬 新加坡_5
+      - 🇸🇬 新加坡_6
+      - 🇸🇬 新加坡_7
+      - 🇸🇬 新加坡_8
+      - 🇺🇸 美国_1
+      - 🇺🇸 美国_2
+      - 🇺🇸 美国_3
+      - 🇺🇸 美国_4
+      - 🇺🇸 美国_5
+      - 🇺🇸 美国_6
+      - 🇺🇸 美国_7
+      - 🇺🇸 美国_8
+      - 🇬🇧 英国_1
+      - 🇬🇧 英国_2
+      - 🇬🇧 英国_3
+      - 🇬🇧 英国_4
+      - 🇬🇧 英国_5
+      - 🇬🇧 英国_6
+      - 🇬🇧 英国_7
+      - 🇬🇧 英国_8
+      - 🇨🇦 加拿大_1
+      - 🇨🇦 加拿大_2
+      - 🇨🇦 加拿大_3
+      - 🇨🇦 加拿大_4
+      - 🇨🇦 加拿大_5
+      - 🇨🇦 加拿大_6
+      - 🇨🇦 加拿大_7
+      - 🇨🇦 加拿大_8
+      - 🇦🇺 澳洲_1
+      - 🇦🇺 澳洲_2
+      - 🇦🇺 澳洲_3
+      - 🇦🇺 澳洲_4
+      - 🇦🇺 澳洲_5
+      - 🇦🇺 澳洲_6
+      - 🇦🇺 澳洲_7
+      - 🇦🇺 澳洲_8
+      - 1🇭🇰 香港
+      - 1🇦🇺 澳洲
+      - 1🇨🇦 加拿大
+      - 1🇩🇪 德国
+      - 1🇯🇵 日本
+      - 1🇸🇬 新加坡
+      - 1🇬🇧 英国
+      - 1🇺🇸 美国
+      - 2🇭🇰 香港
+      - 2🇦🇺 澳洲
+      - 2🇨🇦 加拿大
+      - 2🇩🇪 德国
+      - 2🇯🇵 日本
+      - 2🇸🇬 新加坡
+      - 2🇬🇧 英国
+      - 2🇺🇸 美国
+      - 3🇭🇰 香港
+      - 3🇦🇺 澳洲
+      - 3🇨🇦 加拿大
+      - 3🇩🇪 德国
+      - 3🇯🇵 日本
+      - 3🇸🇬 新加坡
+      - 3🇬🇧 英国
+      - 3🇺🇸 美国
+      - 4🇭🇰 香港
+      - 4🇦🇺 澳洲
+      - 4🇨🇦 加拿大
+      - 4🇩🇪 德国
+      - 4🇯🇵 日本
+      - 4🇸🇬 新加坡
+      - 4🇬🇧 英国
+      - 4🇺🇸 美国
   - name: 📲 电报信息
     type: select
     proxies:
       - 🔰 节点选择
       - 🎯 全球直连
-      - a1
-      - a2
-      - 高速节点-香港_3
-      - 高速节点-香港_4
-      - 高速节点-香港_5
-      - 高速节点-日本_1
-      - 高速节点-日本_2
-      - 高速节点-日本_3
-      - 高速节点-日本_4
-      - 高速节点-日本_5
-      - 高速节点-日本_6
-      - 高速节点-日本_7
-      - 高速节点-日本_8
-      - 高速节点-新加坡_1
-      - 高速节点-新加坡_2
-      - 高速节点-新加坡_3
-      - 高速节点-新加坡_4
-      - 高速节点-新加坡_5
-      - 高速节点-新加坡_6
-      - 高速节点-新加坡_7
-      - 高速节点-新加坡_8
-      - 高速节点-美国_1
-      - 高速节点-美国_2
-      - 高速节点-美国_3
-      - 高速节点-美国_4
-      - 高速节点-美国_5
-      - 高速节点-美国_6
-      - 高速节点-美国_7
-      - 高速节点-美国_8
-      - 高速节点-英国_1
-      - 高速节点-英国_2
-      - 高速节点-英国_3
-      - 高速节点-英国_4
-      - 高速节点-英国_5
-      - 高速节点-英国_6
-      - 高速节点-英国_7
-      - 高速节点-英国_8
-      - 高速节点-加拿大_1
-      - 高速节点-加拿大_2
-      - 高速节点-加拿大_3
-      - 高速节点-加拿大_4
-      - 高速节点-加拿大_5
-      - 高速节点-加拿大_6
-      - 高速节点-加拿大_7
-      - 高速节点-加拿大_8
-      - 高速节点-澳洲_1
-      - 高速节点-澳洲_2
-      - 高速节点-澳洲_3
-      - 高速节点-澳洲_4
-      - 高速节点-澳洲_5
-      - 高速节点-澳洲_6
-      - 高速节点-澳洲_7
-      - 高速节点-澳洲_8
-      - 高速节点-1香港
-      - 高速节点-1澳洲
-      - 高速节点-1加拿大
-      - 高速节点-1德国
-      - 高速节点-1日本
-      - 高速节点-1新加坡
-      - 高速节点-1英国
-      - 高速节点-1美国
-      - 高速节点-2香港
-      - 高速节点-2澳洲
-      - 高速节点-2加拿大
-      - 高速节点-2德国
-      - 高速节点-2日本
-      - 高速节点-2新加坡
-      - 高速节点-2英国
-      - 高速节点-2美国
-      - 高速节点-3香港
-      - 高速节点-3澳洲
-      - 高速节点-3加拿大
-      - 高速节点-3德国
-      - 高速节点-3日本
-      - 高速节点-3新加坡
-      - 高速节点-3英国
-      - 高速节点-3美国
-      - 高速节点-4香港
-      - 高速节点-4澳洲
-      - 高速节点-4加拿大
-      - 高速节点-4德国
-      - 高速节点-4日本
-      - 高速节点-4新加坡
-      - 高速节点-4英国
-      - 高速节点-4美国
+      - 🇭🇰 香港1
+      - 🇭🇰 香港2
+      - 🇭🇰 香港_3
+      - 🇭🇰 香港_4
+      - 🇭🇰 香港_5
+      - 🇯🇵 日本_1
+      - 🇯🇵 日本_2
+      - 🇯🇵 日本_3
+      - 🇯🇵 日本_4
+      - 🇯🇵 日本_5
+      - 🇯🇵 日本_6
+      - 🇯🇵 日本_7
+      - 🇯🇵 日本_8
+      - 🇸🇬 新加坡_1
+      - 🇸🇬 新加坡_2
+      - 🇸🇬 新加坡_3
+      - 🇸🇬 新加坡_4
+      - 🇸🇬 新加坡_5
+      - 🇸🇬 新加坡_6
+      - 🇸🇬 新加坡_7
+      - 🇸🇬 新加坡_8
+      - 🇺🇸 美国_1
+      - 🇺🇸 美国_2
+      - 🇺🇸 美国_3
+      - 🇺🇸 美国_4
+      - 🇺🇸 美国_5
+      - 🇺🇸 美国_6
+      - 🇺🇸 美国_7
+      - 🇺🇸 美国_8
+      - 🇬🇧 英国_1
+      - 🇬🇧 英国_2
+      - 🇬🇧 英国_3
+      - 🇬🇧 英国_4
+      - 🇬🇧 英国_5
+      - 🇬🇧 英国_6
+      - 🇬🇧 英国_7
+      - 🇬🇧 英国_8
+      - 🇨🇦 加拿大_1
+      - 🇨🇦 加拿大_2
+      - 🇨🇦 加拿大_3
+      - 🇨🇦 加拿大_4
+      - 🇨🇦 加拿大_5
+      - 🇨🇦 加拿大_6
+      - 🇨🇦 加拿大_7
+      - 🇨🇦 加拿大_8
+      - 🇦🇺 澳洲_1
+      - 🇦🇺 澳洲_2
+      - 🇦🇺 澳洲_3
+      - 🇦🇺 澳洲_4
+      - 🇦🇺 澳洲_5
+      - 🇦🇺 澳洲_6
+      - 🇦🇺 澳洲_7
+      - 🇦🇺 澳洲_8
+      - 1🇭🇰 香港
+      - 1🇦🇺 澳洲
+      - 1🇨🇦 加拿大
+      - 1🇩🇪 德国
+      - 1🇯🇵 日本
+      - 1🇸🇬 新加坡
+      - 1🇬🇧 英国
+      - 1🇺🇸 美国
+      - 2🇭🇰 香港
+      - 2🇦🇺 澳洲
+      - 2🇨🇦 加拿大
+      - 2🇩🇪 德国
+      - 2🇯🇵 日本
+      - 2🇸🇬 新加坡
+      - 2🇬🇧 英国
+      - 2🇺🇸 美国
+      - 3🇭🇰 香港
+      - 3🇦🇺 澳洲
+      - 3🇨🇦 加拿大
+      - 3🇩🇪 德国
+      - 3🇯🇵 日本
+      - 3🇸🇬 新加坡
+      - 3🇬🇧 英国
+      - 3🇺🇸 美国
+      - 4🇭🇰 香港
+      - 4🇦🇺 澳洲
+      - 4🇨🇦 加拿大
+      - 4🇩🇪 德国
+      - 4🇯🇵 日本
+      - 4🇸🇬 新加坡
+      - 4🇬🇧 英国
+      - 4🇺🇸 美国
   - name: 🍎 苹果服务
     type: select
     proxies:
       - 🔰 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - a1
-      - a2
-      - 高速节点-香港_3
-      - 高速节点-香港_4
-      - 高速节点-香港_5
-      - 高速节点-日本_1
-      - 高速节点-日本_2
-      - 高速节点-日本_3
-      - 高速节点-日本_4
-      - 高速节点-日本_5
-      - 高速节点-日本_6
-      - 高速节点-日本_7
-      - 高速节点-日本_8
-      - 高速节点-新加坡_1
-      - 高速节点-新加坡_2
-      - 高速节点-新加坡_3
-      - 高速节点-新加坡_4
-      - 高速节点-新加坡_5
-      - 高速节点-新加坡_6
-      - 高速节点-新加坡_7
-      - 高速节点-新加坡_8
-      - 高速节点-美国_1
-      - 高速节点-美国_2
-      - 高速节点-美国_3
-      - 高速节点-美国_4
-      - 高速节点-美国_5
-      - 高速节点-美国_6
-      - 高速节点-美国_7
-      - 高速节点-美国_8
-      - 高速节点-英国_1
-      - 高速节点-英国_2
-      - 高速节点-英国_3
-      - 高速节点-英国_4
-      - 高速节点-英国_5
-      - 高速节点-英国_6
-      - 高速节点-英国_7
-      - 高速节点-英国_8
-      - 高速节点-加拿大_1
-      - 高速节点-加拿大_2
-      - 高速节点-加拿大_3
-      - 高速节点-加拿大_4
-      - 高速节点-加拿大_5
-      - 高速节点-加拿大_6
-      - 高速节点-加拿大_7
-      - 高速节点-加拿大_8
-      - 高速节点-澳洲_1
-      - 高速节点-澳洲_2
-      - 高速节点-澳洲_3
-      - 高速节点-澳洲_4
-      - 高速节点-澳洲_5
-      - 高速节点-澳洲_6
-      - 高速节点-澳洲_7
-      - 高速节点-澳洲_8
-      - 高速节点-1香港
-      - 高速节点-1澳洲
-      - 高速节点-1加拿大
-      - 高速节点-1德国
-      - 高速节点-1日本
-      - 高速节点-1新加坡
-      - 高速节点-1英国
-      - 高速节点-1美国
-      - 高速节点-2香港
-      - 高速节点-2澳洲
-      - 高速节点-2加拿大
-      - 高速节点-2德国
-      - 高速节点-2日本
-      - 高速节点-2新加坡
-      - 高速节点-2英国
-      - 高速节点-2美国
-      - 高速节点-3香港
-      - 高速节点-3澳洲
-      - 高速节点-3加拿大
-      - 高速节点-3德国
-      - 高速节点-3日本
-      - 高速节点-3新加坡
-      - 高速节点-3英国
-      - 高速节点-3美国
-      - 高速节点-4香港
-      - 高速节点-4澳洲
-      - 高速节点-4加拿大
-      - 高速节点-4德国
-      - 高速节点-4日本
-      - 高速节点-4新加坡
-      - 高速节点-4英国
-      - 高速节点-4美国
+      - 🇭🇰 香港1
+      - 🇭🇰 香港2
+      - 🇭🇰 香港_3
+      - 🇭🇰 香港_4
+      - 🇭🇰 香港_5
+      - 🇯🇵 日本_1
+      - 🇯🇵 日本_2
+      - 🇯🇵 日本_3
+      - 🇯🇵 日本_4
+      - 🇯🇵 日本_5
+      - 🇯🇵 日本_6
+      - 🇯🇵 日本_7
+      - 🇯🇵 日本_8
+      - 🇸🇬 新加坡_1
+      - 🇸🇬 新加坡_2
+      - 🇸🇬 新加坡_3
+      - 🇸🇬 新加坡_4
+      - 🇸🇬 新加坡_5
+      - 🇸🇬 新加坡_6
+      - 🇸🇬 新加坡_7
+      - 🇸🇬 新加坡_8
+      - 🇺🇸 美国_1
+      - 🇺🇸 美国_2
+      - 🇺🇸 美国_3
+      - 🇺🇸 美国_4
+      - 🇺🇸 美国_5
+      - 🇺🇸 美国_6
+      - 🇺🇸 美国_7
+      - 🇺🇸 美国_8
+      - 🇬🇧 英国_1
+      - 🇬🇧 英国_2
+      - 🇬🇧 英国_3
+      - 🇬🇧 英国_4
+      - 🇬🇧 英国_5
+      - 🇬🇧 英国_6
+      - 🇬🇧 英国_7
+      - 🇬🇧 英国_8
+      - 🇨🇦 加拿大_1
+      - 🇨🇦 加拿大_2
+      - 🇨🇦 加拿大_3
+      - 🇨🇦 加拿大_4
+      - 🇨🇦 加拿大_5
+      - 🇨🇦 加拿大_6
+      - 🇨🇦 加拿大_7
+      - 🇨🇦 加拿大_8
+      - 🇦🇺 澳洲_1
+      - 🇦🇺 澳洲_2
+      - 🇦🇺 澳洲_3
+      - 🇦🇺 澳洲_4
+      - 🇦🇺 澳洲_5
+      - 🇦🇺 澳洲_6
+      - 🇦🇺 澳洲_7
+      - 🇦🇺 澳洲_8
+      - 1🇭🇰 香港
+      - 1🇦🇺 澳洲
+      - 1🇨🇦 加拿大
+      - 1🇩🇪 德国
+      - 1🇯🇵 日本
+      - 1🇸🇬 新加坡
+      - 1🇬🇧 英国
+      - 1🇺🇸 美国
+      - 2🇭🇰 香港
+      - 2🇦🇺 澳洲
+      - 2🇨🇦 加拿大
+      - 2🇩🇪 德国
+      - 2🇯🇵 日本
+      - 2🇸🇬 新加坡
+      - 2🇬🇧 英国
+      - 2🇺🇸 美国
+      - 3🇭🇰 香港
+      - 3🇦🇺 澳洲
+      - 3🇨🇦 加拿大
+      - 3🇩🇪 德国
+      - 3🇯🇵 日本
+      - 3🇸🇬 新加坡
+      - 3🇬🇧 英国
+      - 3🇺🇸 美国
+      - 4🇭🇰 香港
+      - 4🇦🇺 澳洲
+      - 4🇨🇦 加拿大
+      - 4🇩🇪 德国
+      - 4🇯🇵 日本
+      - 4🇸🇬 新加坡
+      - 4🇬🇧 英国
+      - 4🇺🇸 美国
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -1333,91 +1333,91 @@ proxy-groups:
       - 🔰 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - a1
-      - a2
-      - 高速节点-香港_3
-      - 高速节点-香港_4
-      - 高速节点-香港_5
-      - 高速节点-日本_1
-      - 高速节点-日本_2
-      - 高速节点-日本_3
-      - 高速节点-日本_4
-      - 高速节点-日本_5
-      - 高速节点-日本_6
-      - 高速节点-日本_7
-      - 高速节点-日本_8
-      - 高速节点-新加坡_1
-      - 高速节点-新加坡_2
-      - 高速节点-新加坡_3
-      - 高速节点-新加坡_4
-      - 高速节点-新加坡_5
-      - 高速节点-新加坡_6
-      - 高速节点-新加坡_7
-      - 高速节点-新加坡_8
-      - 高速节点-美国_1
-      - 高速节点-美国_2
-      - 高速节点-美国_3
-      - 高速节点-美国_4
-      - 高速节点-美国_5
-      - 高速节点-美国_6
-      - 高速节点-美国_7
-      - 高速节点-美国_8
-      - 高速节点-英国_1
-      - 高速节点-英国_2
-      - 高速节点-英国_3
-      - 高速节点-英国_4
-      - 高速节点-英国_5
-      - 高速节点-英国_6
-      - 高速节点-英国_7
-      - 高速节点-英国_8
-      - 高速节点-加拿大_1
-      - 高速节点-加拿大_2
-      - 高速节点-加拿大_3
-      - 高速节点-加拿大_4
-      - 高速节点-加拿大_5
-      - 高速节点-加拿大_6
-      - 高速节点-加拿大_7
-      - 高速节点-加拿大_8
-      - 高速节点-澳洲_1
-      - 高速节点-澳洲_2
-      - 高速节点-澳洲_3
-      - 高速节点-澳洲_4
-      - 高速节点-澳洲_5
-      - 高速节点-澳洲_6
-      - 高速节点-澳洲_7
-      - 高速节点-澳洲_8
-      - 高速节点-1香港
-      - 高速节点-1澳洲
-      - 高速节点-1加拿大
-      - 高速节点-1德国
-      - 高速节点-1日本
-      - 高速节点-1新加坡
-      - 高速节点-1英国
-      - 高速节点-1美国
-      - 高速节点-2香港
-      - 高速节点-2澳洲
-      - 高速节点-2加拿大
-      - 高速节点-2德国
-      - 高速节点-2日本
-      - 高速节点-2新加坡
-      - 高速节点-2英国
-      - 高速节点-2美国
-      - 高速节点-3香港
-      - 高速节点-3澳洲
-      - 高速节点-3加拿大
-      - 高速节点-3德国
-      - 高速节点-3日本
-      - 高速节点-3新加坡
-      - 高速节点-3英国
-      - 高速节点-3美国
-      - 高速节点-4香港
-      - 高速节点-4澳洲
-      - 高速节点-4加拿大
-      - 高速节点-4德国
-      - 高速节点-4日本
-      - 高速节点-4新加坡
-      - 高速节点-4英国
-      - 高速节点-4美国
+      - 🇭🇰 香港1
+      - 🇭🇰 香港2
+      - 🇭🇰 香港_3
+      - 🇭🇰 香港_4
+      - 🇭🇰 香港_5
+      - 🇯🇵 日本_1
+      - 🇯🇵 日本_2
+      - 🇯🇵 日本_3
+      - 🇯🇵 日本_4
+      - 🇯🇵 日本_5
+      - 🇯🇵 日本_6
+      - 🇯🇵 日本_7
+      - 🇯🇵 日本_8
+      - 🇸🇬 新加坡_1
+      - 🇸🇬 新加坡_2
+      - 🇸🇬 新加坡_3
+      - 🇸🇬 新加坡_4
+      - 🇸🇬 新加坡_5
+      - 🇸🇬 新加坡_6
+      - 🇸🇬 新加坡_7
+      - 🇸🇬 新加坡_8
+      - 🇺🇸 美国_1
+      - 🇺🇸 美国_2
+      - 🇺🇸 美国_3
+      - 🇺🇸 美国_4
+      - 🇺🇸 美国_5
+      - 🇺🇸 美国_6
+      - 🇺🇸 美国_7
+      - 🇺🇸 美国_8
+      - 🇬🇧 英国_1
+      - 🇬🇧 英国_2
+      - 🇬🇧 英国_3
+      - 🇬🇧 英国_4
+      - 🇬🇧 英国_5
+      - 🇬🇧 英国_6
+      - 🇬🇧 英国_7
+      - 🇬🇧 英国_8
+      - 🇨🇦 加拿大_1
+      - 🇨🇦 加拿大_2
+      - 🇨🇦 加拿大_3
+      - 🇨🇦 加拿大_4
+      - 🇨🇦 加拿大_5
+      - 🇨🇦 加拿大_6
+      - 🇨🇦 加拿大_7
+      - 🇨🇦 加拿大_8
+      - 🇦🇺 澳洲_1
+      - 🇦🇺 澳洲_2
+      - 🇦🇺 澳洲_3
+      - 🇦🇺 澳洲_4
+      - 🇦🇺 澳洲_5
+      - 🇦🇺 澳洲_6
+      - 🇦🇺 澳洲_7
+      - 🇦🇺 澳洲_8
+      - 1🇭🇰 香港
+      - 1🇦🇺 澳洲
+      - 1🇨🇦 加拿大
+      - 1🇩🇪 德国
+      - 1🇯🇵 日本
+      - 1🇸🇬 新加坡
+      - 1🇬🇧 英国
+      - 1🇺🇸 美国
+      - 2🇭🇰 香港
+      - 2🇦🇺 澳洲
+      - 2🇨🇦 加拿大
+      - 2🇩🇪 德国
+      - 2🇯🇵 日本
+      - 2🇸🇬 新加坡
+      - 2🇬🇧 英国
+      - 2🇺🇸 美国
+      - 3🇭🇰 香港
+      - 3🇦🇺 澳洲
+      - 3🇨🇦 加拿大
+      - 3🇩🇪 德国
+      - 3🇯🇵 日本
+      - 3🇸🇬 新加坡
+      - 3🇬🇧 英国
+      - 3🇺🇸 美国
+      - 4🇭🇰 香港
+      - 4🇦🇺 澳洲
+      - 4🇨🇦 加拿大
+      - 4🇩🇪 德国
+      - 4🇯🇵 日本
+      - 4🇸🇬 新加坡
+      - 4🇬🇧 英国
+      - 4🇺🇸 美国
 rules:
  - DOMAIN-SUFFIX,local,🎯 全球直连
  - IP-CIDR,192.168.0.0/16,🎯 全球直连,no-resolve
